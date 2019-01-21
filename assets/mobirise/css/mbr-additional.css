@@ -1410,3 +1410,26 @@ body {
 .cid-rayJ2taWcb P {
   color: #879a9f;
 }
+.cid-rfKKwszMGm {
+  background: #ffffff;
+}
+.cid-rfKKwszMGm .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rfKKwszMGm .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rfKKwszMGm figcaption {
+  position: relative;
+}
+.cid-rfKKwszMGm figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rfKKwszMGm .image-block {
+    width: 100% !important;
+  }
+}
